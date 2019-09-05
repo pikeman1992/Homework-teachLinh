@@ -7,6 +7,6 @@ let a, k = 0
     }else if ( a == num.length-1){
         k = num[a]
           }
-        else ( a = i )
+        else { a = i } 
   } 
 console.log(k)
