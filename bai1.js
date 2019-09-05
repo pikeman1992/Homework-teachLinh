@@ -1,3 +1,4 @@
+// tim so lon nhat trong chuoi so
 let num =[ 1, 3, 7, 5, 12, 18 ]
 let a, k = 0
 for ( let i = 0; i <= num.length; i++ ){
