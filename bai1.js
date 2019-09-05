@@ -10,3 +10,6 @@ let a, k = 0
         else { a = i } 
   } 
 console.log(k)
+
+
+edit
